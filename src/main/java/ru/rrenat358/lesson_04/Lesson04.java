@@ -4,8 +4,7 @@ package ru.rrenat358.lesson_04;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Lesson04 {
     public static void main(String[] args) {
 
